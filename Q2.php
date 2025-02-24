@@ -79,5 +79,8 @@ createImage($dataArray, '');
 
 # i have coded and tested this on my Terminal, so to run and the image just "php Q2.php" on your terminal.
 
-
 #Diogo Verardi - 24FEB2025 - Quebec,Canada
+
+/**
+After a lenghty review i have concluded that the image is just a banana (pareidolia) :)
+**/ 
