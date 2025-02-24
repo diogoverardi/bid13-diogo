@@ -53,7 +53,6 @@ var_dump($result);
 #Diogo Verardi - 24FEB2025 - Quebec,Canada
 
 /**
- * 
 
 Analysis and modifications 
 
@@ -75,4 +74,5 @@ and this is because the API Request is missing data, such as the actual Request 
 - Added the JSON parameter in the CURL HTTPHEADER, as their API requests in the PHP example here: https://developer.telesign.com/enterprise/reference/submitphonenumberforidentity
 
 - The final error was array key "$data['numbering']['phone_type']" which is just completely wrong, a simple look in the API documentation or even a var_dump($data) will give you the right location for this data, which is $data['phone_type']['description']
- /
+
+ **/ 
